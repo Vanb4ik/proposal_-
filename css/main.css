@@ -170,7 +170,7 @@ a
 .hero-img
 {
 	float: left;
-	height: 70px;
+	height: 352px;
 	font-size:0;
 }
 .hero-pic
@@ -220,7 +220,7 @@ a
 {
 	height: 204px;
 }
-.clearfix:after
+.clear-fix:after
 {
 	display: block;
 	content: "";
